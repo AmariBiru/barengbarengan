@@ -13,3 +13,5 @@ plt.xlabel('Time [s]')
 plt.ylabel('Amplitude')
 plt.grid(True)
 plt.show()
+
+print("aduh ganteng nya~~")
